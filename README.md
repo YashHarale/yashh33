@@ -4,3 +4,5 @@ I'm Yash, I am 2nd year IT Engineering student. I enjoy learning languages and f
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashh33)]
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashh33&hide=contribs,prs)
+
